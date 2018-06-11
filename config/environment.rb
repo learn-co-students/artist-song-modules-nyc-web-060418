@@ -9,4 +9,4 @@ require_relative '../lib/artist.rb'
 require_relative '../lib/song.rb'
 
 
-binding.pry
+#binding.pry
